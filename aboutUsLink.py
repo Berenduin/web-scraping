@@ -1,4 +1,4 @@
-import webLinks
+from webLinks import WebLinks
 from bs4 import BeautifulSoup
 
 def Combinations(items):
